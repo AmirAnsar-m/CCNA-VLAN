@@ -33,3 +33,6 @@ VLAN	Department	Network
 10	HR	192.168.10.0/24
 20	IT	192.168.20.0/24
 30	Sales	192.168.30.0/24
+
+
+![Network Topology](network-topology.png)
